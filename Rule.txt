@@ -1,1 +1,0 @@
-In this game we have to change sound path every time we change the place of existing one.
