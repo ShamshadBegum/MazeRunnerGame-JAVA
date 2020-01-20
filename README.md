@@ -1,0 +1,2 @@
+# MazeRunnerGame
+The Maze Runner is a simple 2D java game developed using the Eclipse IDE. This is a simple yet very interesting game developed in java programming language. More-over, this game enables your coding ability on writing the 2D sample games and how to handle the data structures so well. This java game involves solving a maze while collecting coins and avoiding enemy monsters. Players can progress through levels of increasingly difficulty up to level 10.
