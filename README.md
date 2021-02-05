@@ -1,5 +1,10 @@
 # MazeRunnerGame-JAVA
-  The Maze Runner is a simple 2D java game developed using the Eclipse IDE. This is a simple yet very interesting game developed in java programming language. More-over, this game enables your coding ability on writing the 2D sample games and how to handle the data structures so well. This java game involves solving a maze while collecting coins and avoiding enemy monsters. Players can progress through levels of increasingly difficulty up to level 10.
-  This game contains a lot of designed frames. The maze designer can make the maze that can visible and set the environment of the system. When a player can click the buttons it has sounds played and in the game sprites it sounds based on their work.  The controller can control the game using keys and mouse clicks.
-  This game is tested successfully and has performed to the exceptions. The goal of the game is achieved and improving the game levels of maze runner game. Finally the game player can collect the coins and add points. Special ending dialogue box is show if the player finished all levels of the game. The statistics of the player are then cleared.
-  At the most I've added some sound effects like coins, keys jingling, foot steps and so on.
+Maze Runner Game - Java (Duration 3 Months)
+Roles - Project Management
+Responsibilities -
+Creating, prioritizing, managing, implementing Sound FX.
+Documenting and assigning projects using Word and GitHub to standardize project tracking
+and documentation.
+I faced a problem when integrating and implementing of music, sound fx into the proper
+locations and time. I analyzed through all stages and solved the problem.
+Skills used - Java, Eclipse IDE, GitHub
