@@ -5,6 +5,6 @@ Responsibilities -
 Creating, prioritizing, managing, implementing Sound FX.
 Documenting and assigning projects using Word and GitHub to standardize project tracking
 and documentation.
-I faced a problem when integrating and implementing of music, sound fx into the proper
-locations and time. I analyzed through all stages and solved the problem.
+I acknowledged some experience when I was working with integration and implementation of
+music, sound fx code into the proper locations and time.
 Skills used - Java, Eclipse IDE, GitHub
